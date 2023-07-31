@@ -1,1 +1,16 @@
+---
+- summary: |
+    Некликабельный логотип магазина "Hexlet Store"
+  environment: |
+    Google Chrome   107.0.5304.121 (Официальная сборка) (64 бит)
+    ОС MacOS Monterey 12.6.7 
+  steps-to-reproduce: |
+    1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
+    2. Нажать на логотип "Hexlet Store"
+  expected-result: |
+    Обновляется главная страница магазина
+  actual-result: |
+    Логотип некликабельный, ничего не происходит.
+
+    
 

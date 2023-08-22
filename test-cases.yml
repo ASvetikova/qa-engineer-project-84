@@ -475,7 +475,7 @@
   steps:
     - 1. Открыть каталог товаров https://hexlet-products-store.vercel.app/
     - 2. Открыть devtools браузера
-    - 3. Выбрать устройство iPhone 12 Pro в адаптивном режиме отображения
+    - 3. Выбрать устройство iPhone 12 Pro, Ipad Mini в адаптивном режиме отображения
   expected-result: |
     - 1. Каталог товаров открыт
     - 2. Devtools браузера открыт

@@ -62,7 +62,7 @@ test-cases:
 
 - summary: |
     Проверка очистки корзины
-  status:  pass
+  status:  fail
 
 - summary: |
     Проверка перехода в каталог из корзины
